@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "newRecursiveBug",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 1719848760094,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsIndex": "Inches",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
