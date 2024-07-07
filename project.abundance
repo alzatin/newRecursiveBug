@@ -29,15 +29,15 @@
             "ioValues": [
                 {
                     "name": "diameter",
-                    "ioValue": 7
+                    "ioValue": 8
                 }
             ]
         },
         {
             "atomType": "Move",
             "name": "Move",
-            "x": 0.5748344370860927,
-            "y": 0.6833855799373041,
+            "x": 0.5721854304635762,
+            "y": 0.6990595611285267,
             "uniqueID": 1719848910110,
             "ioValues": [
                 {
@@ -46,7 +46,7 @@
                 },
                 {
                     "name": "xDist",
-                    "ioValue": -5
+                    "ioValue": -6
                 },
                 {
                     "name": "yDist",
@@ -54,7 +54,7 @@
                 },
                 {
                     "name": "zDist",
-                    "ioValue": 5
+                    "ioValue": 4
                 }
             ]
         },
